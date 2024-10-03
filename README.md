@@ -1,6 +1,8 @@
 # carousel_fapp
 
-A new Flutter project to display carousel view
+A new Flutter project to display carousel view.
+
+The CarouselView present a scrollable list of items, each of which can dynamically change size based on the chosen layout.
 
 ## Getting Started
 
